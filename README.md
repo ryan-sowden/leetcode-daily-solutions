@@ -41,12 +41,11 @@ Feel free to submit pull request with
   3. improved explanations or added comments in soultion files
 
 ## 📌 Daily Challenge Progress
-| Date  | Problem | Difficulty | Topic |
-| ------------- | ------------- |
-|  2024-10-27  | Two Sum  | Easy  | Arrays and Hashing |
-|  2024-10-28  | Add Two Numbers  | Easy | Arrays and Hashing |
-|  2024-10-29  | Valid Anagram    | Easy | Arrays and Hashing |
-|  ...  | ...  | ...              | ... |
+| Date         | Problem          | Difficulty | Topic              |
+|  2024-10-27  | Two Sum          | Easy       | Arrays and Hashing |
+|  2024-10-28  | Add Two Numbers  | Easy       | Arrays and Hashing |
+|  2024-10-29  | Valid Anagram    | Easy       | Arrays and Hashing |
+|  ...         | ...              | ...        | ...                |
 **Note: This table can be updated daily to keep track of progress**
 
 ## 📈 Progress Tracking 
