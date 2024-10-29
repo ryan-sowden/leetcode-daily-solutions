@@ -21,7 +21,7 @@ Each problem has its own folder, containing:
    cd leetcode-daily-solutions
 
 2. Explore Soultions
-   Navigate to Easy/, Medium/, or Hard/ to browse problems by difficulty.
+   Navigate to `Easy/`, `Medium/`, or `Hard/` to browse problems by difficulty.
 
 3. Run Code
    Open the Java soultion file and run it directly to rest against sample inputs.
