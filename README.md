@@ -1,5 +1,5 @@
-# leetcode-daily-solutions
-A collection of daily solutions to LeetCode challenges, organized by difficulty and topic. 
+# leetcode-solutions
+A collection of solutions to LeetCode challenges, organized by difficulty and topic. 
 
 ## 🏆Goals
 - complete at least one LeetCode problem per day.
@@ -17,8 +17,8 @@ Each problem has its own folder, containing:
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/ryan-sowden/leetcode-daily-solutions.git
-   cd leetcode-daily-solutions
+   git clone https://github.com/ryan-sowden/leetcode-solutions.git
+   cd leetcode-solutions
 
 2. Explore Soultions
    Navigate to `Easy/`, `Medium/`, or `Hard/` to browse problems by difficulty.
@@ -40,7 +40,7 @@ Feel free to submit pull request with
   2. Optimizations to exisiting solutions
   3. improved explanations or added comments in soultion files
 
-## 📌 Daily Challenge Progress
+## 📌 Challenge Progress
 Date | Problem | Difficulty | Topic 
 --- | --- | --- | --- 
 2024-10-27 | Two Sum | Easy | Arrays and Hashing 
